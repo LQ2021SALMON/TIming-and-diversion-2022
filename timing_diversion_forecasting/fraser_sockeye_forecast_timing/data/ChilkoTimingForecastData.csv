@@ -1,0 +1,72 @@
+year,A20.mediandate,Comment,forecast.source,forecast.median,pi.probability,pi.lower,pi.upper
+1951,1951-07-27,,,,,,
+1952,1952-07-25,mf substracted 1 day to correct for Blackbourn adding a day to his days since june 30 on leap years,,,,,
+1953,1953-07-23,,,,,,
+1954,1954-07-26,,,,,,
+1955,1955-07-30,,,,,,
+1956,1956-07-31,mf substracted 1 day to correct for Blackbourn adding a day to his days since june 30 on leap years,,,,,
+1957,1957-08-03,,,,,,
+1958,1958-08-09,,,,,,
+1959,1959-08-04,,,,,,
+1960,1960-08-04,mf substracted 1 day to correct for Blackbourn adding a day to his days since june 30 on leap years,,,,,
+1961,1961-07-28,,,,,,
+1962,1962-07-29,,,,,,
+1963,1963-07-22,,,,,,
+1964,1964-08-01,mf substracted 1 day to correct for Blackbourn adding a day to his days since june 30 on leap years,,,,,
+1965,1965-07-27,,,,,,
+1966,1966-07-29,,,,,,
+1967,1967-07-29,,,,,,
+1968,1968-07-29,mf substracted 1 day to correct for Blackbourn adding a day to his days since june 30 on leap years,,,,,
+1969,1969-07-23,,,,,,
+1970,1970-08-03,,,,,,
+1971,1971-07-29,,,,,,
+1972,1972-08-04,mf substracted 1 day to correct for Blackbourn adding a day to his days since june 30 on leap years,,,,,
+1973,1973-08-01,,,,,,
+1974,1974-08-02,,,,,,
+1975,1975-07-25,,,,,,
+1976,1976-08-01,mf substracted 1 day to correct for Blackbourn adding a day to his days since june 30 on leap years,,,,,
+1977,,,,,,,
+1978,1978-08-03,,,,,,
+1979,1979-08-03,,,,,,
+1980,1980-08-09,years 1980-2010 revised by Jim Cave in spring 2011 to avoid old method choosing day closer to 50%,,,,,
+1981,,,,,,,
+1982,1982-08-07,,,,,,
+1983,,,,,,,
+1984,1984-08-04,,,,,,
+1985,,,,,,,
+1986,1986-08-04,email from Jim Cave 20110414,,,,,
+1987,1987-08-10,email from Jim Cave 20110414,,,,,
+1988,1988-07-26,email from Jim Cave 20110414,,,,,
+1989,1989-08-09,email from Jim Cave 20110414,,,,,
+1990,1990-08-17,email from Jim Cave 20110414,,,,,
+1991,1991-08-14,email from Jim Cave 20110414,,,,,
+1992,1992-08-11,email from Jim Cave 20110414,,,,,
+1993,1993-08-15,email from Jim Cave 20110414,,,,,
+1994,1994-08-09,email from Jim Cave 20110414,,,,,
+1995,1995-08-06,email from Jim Cave 20110414,,,,,
+1996,1996-08-06,email from Jim Cave 20110414,,,,,
+1997,,dominant Quesnel years and I dont have Chilko reconstructed uniquely -Jim Cave PSC,,,,,
+1998,1998-08-09,email from Jim Cave 20110414,,,,,
+1999,1999-08-08,I have a post-season reconstruction for Chilko in 1999 and have an area 20 timing of August 8 -Jim Cave PSC email 20110414,,,,,
+2000,2000-08-06,email from Jim Cave 20110414,,,,,
+2001,,dominant Quesnel years and I dont have Chilko reconstructed uniquely -Jim Cave PSC,,,,,
+2002,,Quesnel return was quite large. dont have Chilko reconstructed uniquely -Jim Cave PSC,,,,,
+2003,2003-08-08,email from Jim Cave 20110414,"oscurs, sst",2003-08-13,90%,2003-08-06,2003-08-20
+2004,2004-08-02,email from Jim Cave 20110414,"oscurs, sst",2004-08-02,90%,2004-07-27,2004-08-09
+2005,2005-08-23,email from Jim Cave 20110414,"oscurs, sst",2005-08-06,90%,2005-07-31,2005-08-13
+2006,2006-08-12,email from Jim Cave 20110414,"oscurs, sst",2006-08-09,90%,2006-08-02,2006-08-19
+2007,2007-08-06,[Timing] Probably fairly well known -Jim Cave PSC email from Jim Cave 20110414,"oscurs, sst",2007-08-05,90%,2007-07-30,2007-08-14
+2008,2008-07-30,email from Jim Cave 20110414,"oscurs, sst",2008-08-02,90%,2008-07-27,2008-08-09
+2009,2009-08-04,email from Jim Cave 20110414,"oscurs, sst",2009-08-03,90%,2009-07-25,2009-08-11
+2010,2010-08-15,email from Jim Cave 20110414,"POM, SST",2010-08-04,90%,2010-07-26,2010-08-13
+2011,2011-08-11,email from jim cave 20111209,"POM, SST",2011-08-07,90%,2011-07-28,2011-08-17
+2012,2012-08-05,catherine michielsens (PSC) email Jan 24 2013,"POM, SST",2012-08-09,,,
+2013,2013-08-10,catherine michielsens (PSC) email September 11 2013 10:41 AM,"POM, SST",2013-08-04,,,
+2014,2014-08-19,catherine michielsens (PSC) email March 03 2015 12:12 PM,"POM, SST",2014-08-15,,,
+2015,2015-08-11,catherine michielsens (PSC) email March-03-16 3:33 PM,"oscar, sst",2015-08-04,50%,2015-08-02,2015-08-06
+2016,2016-08-02,catherine michielsens (PSC) email Jan 03 2017,bootstrap,2016-08-07,50%,2016-08-04,2016-08-10
+2017,2017-08-12,catherine michielsens (PSC) email Dec 21 2017,bootstrap,2017-08-04,50%,2017-07-31,2017-08-08
+2018,2018-08-11,fiona martens (PSC) email May 8 2019,bootstrapJune,2018-08-11,50%,2018-08-07,2018-08-14
+2019,2019-08-20,catherine michielsen (PSC) email June 3 2020 7:50 PM,ARIMAJune,2019-08-10,50%,2019-08-07,2019-08-13
+2020,2020-08-02,catherine michielsen (PSC) email May 17 2021 4:35 PM,ARIMAJune,2020-08-08,95%,2020-07-31,2020-08-20
+2021,2021-08-15,catherine michielsen (PSC) email Jan 31 2022,bootstrapJune,2021-08-03,95%,2021-07-25,2021-08-11
